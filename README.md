@@ -11,3 +11,6 @@ add all your personal file and program paths, and rename variables for the scrip
 
 You can initially run the script with .\open.ps1 -app "help", and later with configuration you should just be able to type "open help" and any other open command from
 anywhere in your terminal. 
+
+### Author
+Jun Fengari https://github.com/JunFengari
